@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá! eu me chamo Erik Lima 👋
 
-#### Eu me chamo Erik Lima 👋
 <div>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight"/>      
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&show_icons=true&theme=material-palenight"/>
+  <a href="https://github.com/Erik-EFL/Erik-EFL/edit/main/README.md"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight"/>      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&show_icons=true&theme=material-palenight"/>
 
 </div>
