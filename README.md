@@ -1,5 +1,8 @@
 ### Olá! eu me chamo Erik Lima 👋
 
+📖 Sou atualmente estudante na [Trybe](https://www.betrybe.com/)
+
+
 <div>
   
   <a href="https://github.com/Erik-EFL"/>
