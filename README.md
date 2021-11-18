@@ -1,6 +1,8 @@
 ### Olá! eu me chamo Erik Lima 👋
 
 📖 Sou atualmente estudante na [Trybe](https://www.betrybe.com/)
+💻 Estudo Desenvolvimento de Software Web | React Full Stack |
+😆 (Ele/Dele He/Hin)
 
 
 <div>
