@@ -2,8 +2,8 @@
 ### Hello, Devs!
 
 ##
-<div style="display: inline-block">
-  <img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/wg3cB79/1637217851330-1-removebg-preview.png">
+<div>
+  <img id="imgEu" align="right" width="200px" src="https://i.ibb.co/wg3cB79/1637217851330-1-removebg-preview.png">
 
   </br>
   </br>
@@ -36,12 +36,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
 
 
 ##
 
 <div>
-  <a href="https://www.instagram.com/oi.erik.lima/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/oi.erik.lima/" target="_blank"><img src=https://i.ibb.co/3rN6tms/instagram.png" alt="instagram" border="0" target="_blank" width="40px"/></a>
+  <a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank"><img src="https://i.ibb.co/wWffzsm/linkedin-2.png" alt="linkedin-2" width="40px"  border="0 target="_blank"/></a>
+  <a href="https://www.facebook.com/ErikRune.lima" target="_blank"s><img src="https://i.ibb.co/wdQpnWY/facebook.png" alt="facebook" border="0" width="40px" target="_blank"></a>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div class="footer">Ícones Instagram, LinkedIn e Facebook feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
