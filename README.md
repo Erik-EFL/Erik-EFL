@@ -42,7 +42,7 @@
 ##
 ### Minhas Redes sociais 
 <div>
-  <a href="https://www.instagram.com/oi.erik.lima/" target="_blank"><img src=https://i.ibb.co/3rN6tms/instagram.png" alt="instagram" border="0" target="_blank" width="40px"/></a>
+  <a href="https://www.instagram.com/oi.erik.lima/" target="_blank"><img src=https://i.ibb.co/3rN6tms/instagram.png" alt="instagram" border="0" target="_blank" width="40px" margin-left="10px"/></a>
   <a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank"><img src="https://i.ibb.co/wWffzsm/linkedin-2.png" alt="linkedin-2" width="40px"  border="0 target="_blank"/></a>
   <a href="https://www.facebook.com/ErikRune.lima" target="_blank"s><img src="https://i.ibb.co/wdQpnWY/facebook.png" alt="facebook" border="0" width="40px" target="_blank"></a>
 </div>
