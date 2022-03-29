@@ -13,7 +13,7 @@
   </br>
 
   <section>
-  <p>Me chamo <b>Erik F. Lima</b> tenho 26 anos, moro em Guarulhos/SP e sou apaixonado por programação, Hacking e exercícios físicos! Sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a></p>
+  <p>Me chamo <b>Erik F. Lima</b> tenho 26 anos, moro em Guarulhos/SP e sou apaixonado por programação, Hacking, animes, musica, animais e exercícios físicos! Atualmente sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a></p>
   </section>
 </div>
 
