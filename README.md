@@ -133,7 +133,7 @@
             <a href="https://www.buymeacoffee.com/eriklima" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
+                    align="center" target="_blank"
                 />
             </a></div>
 <br />
