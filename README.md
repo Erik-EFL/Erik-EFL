@@ -7,10 +7,6 @@
 
   </br>
   </br>
-  </br>
-  </br>
-  </br>
-  </br>
 
   <section>
   <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualmente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histórias e escutar música. Sou muito fã animais, exercícios físicos e educação! E mais recentemente descobri também que gosto muito de estudar.
