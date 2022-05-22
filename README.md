@@ -46,10 +46,7 @@ x       | JavaScript              |              | MySQL               | CSS    
 x       | TypeScript              |              | Node                | StyledComponet  | 
 x       | Python              
 x       |               
-x       |                
-x       |                 
-x       |          
-
+       
 
 <div style="display: inline-block"><br/>
   
