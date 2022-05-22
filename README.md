@@ -13,7 +13,7 @@
   </br>
 
   <section>
-  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histporias e escutar musica. Sou muito fã animais e exercícios físicos! Atualmente sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a></p> onde estou aprendendo tecnologias para Back-end pois terminei recentemente a parte de front-end. Abaixo ainda deixo  algumas informações sobre stacks e tecnologias e se quiser me conhecer mais minhas redes sociais! 
+  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histporias e escutar musica. Sou muito fã animais e exercícios físicos! Atualmente sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a></p> Onde estou aprendendo tecnologias para Back-end pois terminei recentemente a parte de front-end. Abaixo ainda deixo  algumas informações sobre stacks e tecnologias e se quiser me conhecer mais minhas redes sociais! 
   </section>
 </div>
 
