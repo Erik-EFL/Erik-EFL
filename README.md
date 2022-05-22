@@ -13,8 +13,17 @@
   </br>
 
   <section>
-  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histporias e escutar musica. Sou muito fã animais e exercícios físicos! Atualmente sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a></p> Onde estou aprendendo tecnologias para Back-end pois terminei recentemente a parte de front-end. Abaixo ainda deixo  algumas informações sobre stacks e tecnologias e se quiser me conhecer mais minhas redes sociais! 
+  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualmente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histórias e escutar música. Sou muito fã animais, exercícios físicos e educação! E mais recentemente descobri também que gosto muito de estudar.
+ Sou uma pessoa que presa muito por empatia, colaboração e assertividade, pois acho que são princípios básicos não só para o âmbito profissional, mas também para viver socialmente. </p>
+    
+  <p>Atualmente sou estudante 📖 de Desenvolvimento de Software Web ⌨️ na <a href="https://www.betrybe.com/">Trybe</a> onde estou aprendendo tecnologias para Back-end, pois, terminei recentemente a parte de front-end. </p>
+  Abaixo ainda deixo algumas informações sobre stacks e tecnologias e se quiser conhecer um pouco mais sobre mim e meu trabalho deixo também minhas redes sociais!
   </section>
+  <h3 align="left">Se conecte comigo:</h3>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/erikferreiralima/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/oi.erik.lima/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 </div>
 
 ##
@@ -23,38 +32,31 @@
   
   <a href="https://github.com/Erik-EFL"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight"/>      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&show_icons=true&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight"/>
 
 </div>
 
 ### Tenho proficiência  nas 🖥️ Tecnologias e Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
+**OS**  | **Stacks e Linguagens** | **Tests**    | **Back-end**        | **Estilização** | **Marcação**
+------- | ----------------------- | ------------ | ------------------- | --------------- | ---------------
+Ubuntu  | React                   | Jest         | Docker              | BootStrap       | HTML
+Windows | React-Native            | Test Library | Docker-compose      | TailWind        | Markdown
+x       | JavaScript              |              | MySQL               | CSS             |
+x       | TypeScript              |              | Node                | StyledComponet  | 
+x       | Python              
+x       |               
+x       |                
+x       |                 
+x       |          
 
 
+<div style="display: inline-block"><br/>
+  
 ##
-### Minhas Redes sociais 
 <div>
-  <a href="https://www.instagram.com/oi.erik.lima/" target="_blank"><img src=https://i.ibb.co/3rN6tms/instagram.png" alt="instagram" border="0" target="_blank" width="40px"/></a>
-  <a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank"><img src="https://i.ibb.co/wWffzsm/linkedin-2.png" alt="linkedin-2" width="40px"  border="0 target="_blank"/></a>
-  <a href="https://www.facebook.com/ErikRune.lima" target="_blank"s><img src="https://i.ibb.co/wdQpnWY/facebook.png" alt="facebook" border="0" width="40px" target="_blank"></a>
+
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-##
-
-<div class="footer">Ícones Instagram, LinkedIn e Facebook feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
