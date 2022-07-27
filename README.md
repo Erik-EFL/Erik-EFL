@@ -1,5 +1,5 @@
 
-<div style=" display: flex; align-items: center; justify-items: center; justify-content: center;">
+<div align="center">
 <img
  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="400px"/>
 </div>
