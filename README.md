@@ -30,11 +30,11 @@
 
 ##
 
-<div>
+<div style=" display: flex; align-items: center; justify-items: center; justify-content: center;">
 
   <a href="https://github.com/Erik-EFL"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight" width="400px"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight" width="330px"/>
 
 </div>
 
