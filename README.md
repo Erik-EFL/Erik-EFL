@@ -1,6 +1,8 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="400px"/>
+<div style=" display: flex; align-items: center; justify-items: center; justify-content: center;">
+<img
+  style="max-width: 40%; max-height: 25%; width: auto; height: auto; margin: 0 auto;"
+ src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="400px"/>
 </div>
 
 ##
@@ -30,7 +32,8 @@
 
 ##
 
-<div style=" display: flex; align-items: center; justify-items: center; justify-content: center;">
+<div style=" display: flex; align-items: center; justify-items: center; justify-content: center;
+  max-width: 100%;">
 
   <a href="https://github.com/Erik-EFL"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight" width="400px"/>
