@@ -1,7 +1,7 @@
 
 <div style=" display: flex; align-items: center; justify-items: center; justify-content: center;">
 <img
-  style="max-width: 40%; max-height: 25%; width: auto; height: auto; margin: 0 auto;"
+  style="max-width: 40%; max-height: 25%;"
  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="400px"/>
 </div>
 
