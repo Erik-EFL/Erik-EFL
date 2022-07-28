@@ -1,5 +1,7 @@
 
 <div align="center">
+
+---
 <img
  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="400px"/>
 </div>
@@ -29,7 +31,7 @@
 
 <br/>
 
-##
+---
 
 <div style=" display: flex; justify-content: center; align-items: center; max-width: 100%; flex-wrap: wrap;">
   <a href="https://github.com/Erik-EFL"/>
@@ -43,9 +45,16 @@
   </a>
 </div>
 
-## My Skill Set
-<table><tr><td valign="top" width="33%">
+</br>
+</br>
+</br>
 
+---
+<h1 align="center">Minhas Skills</h1>
+
+---
+
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend
@@ -95,7 +104,10 @@
 
 <br/>
 
+---
 <h1 align="center">Connect with me</h1>
+
+---
 
 <div align="center">
 <a href="https://github.com/https://github.com/Erik-EFL" target="_blank">
@@ -137,4 +149,4 @@
             </a></div>
 <br />
 
-
+---
