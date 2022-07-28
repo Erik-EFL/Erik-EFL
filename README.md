@@ -39,8 +39,8 @@
   <a href="https://github.com/Erik-EFL" align="center"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight" width="330px" align="center"/>
   </a>
-  <a href="https://github.com/Erik-EFL"/>
-    <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=erik-efl&&theme=material-palenight" alt="erik-efl" align="right" style="margin-right: 50px;"/>
+  <a href="https://github.com/Erik-EFL" style="display: flex; margin: 0 auto; align-self: center;"/>
+    <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=erik-efl&&theme=material-palenight" alt="erik-efl"/>
   </a>
 </div>
 
