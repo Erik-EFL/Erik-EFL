@@ -32,7 +32,7 @@
 ##
 
 <div style=" display: flex; align-items: center; justify-items: center; justify-content: center;
-  max-width: 100%;">
+  max-width: 100%; flex-wrap: wrap; width: 100%">
 
   <a href="https://github.com/Erik-EFL"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight" width="400px"/>
@@ -42,9 +42,12 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight" width="330px"/>
   </a>
 
+  <div style=" display: flex; align-items: center; justify-items: center; justify-content: center; flex-wrap: wrap; >
   <a href="https://github.com/Erik-EFL"/>
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=erik-efl&&theme=material-palenight" alt="erik-efl" />
   </a>
+  </div>
+
 </div>
 
 ## My Skill Set
