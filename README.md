@@ -32,7 +32,7 @@
 
 ##
 
-<div style=" display: flex; justify-content: center; align-items: center; align-content: center; max-width: 100%; width: 100%; flex-wrap: wrap; margin: 0 auto; align-self: center;">
+<div style=" display: flex; justify-content: center; align-items: center; align-content: center; max-width: 100%; width: 80%; flex-wrap: wrap; margin: 0 auto; align-self: center;">
   <a href="https://github.com/Erik-EFL" align="center"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Erik-EFL&show_icons=true&theme=material-palenight" width="400px" align="center"/>
   </a>
