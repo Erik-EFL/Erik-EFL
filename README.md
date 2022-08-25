@@ -22,7 +22,7 @@
 - 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/)
 
 
-- 🌱 Estou estudando MySQL e NodeJs
+- 🌱 Estou estudando POO e S.O.L.I.D
 
 
 - ⚡ Fato curioso: Meu doce favorito é Bom Bom de banana
