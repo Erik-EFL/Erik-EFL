@@ -13,7 +13,7 @@
   </br>
 
   <section>
-  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, moro atualmente em Guarulhos/SP e sou apaixonado por programação. Tenho alguns hobbies como Hacking, assistir     animes, escrever histórias e escutar música. Sou muito fã de animais, exercícios físicos e educação! E mais recentemente descobri também que gosto muito de estudar.
+  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, sou de Guarulhos/SP e um apaixonado por programação. Tenho alguns hobbies como estudar sobre Hacking e programming, assistir animes, escrever histórias e escutar música. Sou muito fã de animais, exercícios físicos e educação! E mais recentemente descobri também que gosto muito de estudar.
  Sou uma pessoa que presa muito por empatia, colaboração e assertividade, pois acho que são princípios básicos não só para o âmbito profissional, mas também para viver socialmente. </p>
 
 ###
@@ -115,17 +115,8 @@
 <a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/ErikRune.lima" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/https://www.instagram.com/oi.erik.lima/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://medium.com/@erik-efl" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://dev.to/erikefl" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 </div>
 
