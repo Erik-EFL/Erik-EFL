@@ -8,6 +8,11 @@
   </br>
 
   <section>
+  My name is Erik, I'm 27 years old and I'm a Full Stack Web Developer. <br/>
+I live in Guarulhos/SP. <br/>
+One of my passions is code, and some other things I like are exercising at the gym, also animals, music and animations.
+I've been looking to learn and practice more to become an expert in the technologies I've learned during my journey.
+<br/><br/><br/>
   <p>Me chamo Erik tenho 27 anos e sou Desenvolvedor Web Full Stack. <br/>
 Moro em Guarulhos/SP. <br/>
 Uma das minhas paixões é o código, e algumas outras são praticar exercícios na academia, também de animais, música e animações. <br/>
