@@ -8,13 +8,15 @@
   </br>
 
   <section>
-  <p>Me chamo <b>Erik F. Lima</b> tenho 27 anos, sou de Guarulhos/SP e um apaixonado por programação. Tenho alguns hobbies como estudar sobre Hacking e programming, assistir animes, escrever histórias e escutar música. Sou muito fã de animais, exercícios físicos e educação! E mais recentemente descobri também que gosto muito de estudar.
- Sou uma pessoa que presa muito por empatia, colaboração e assertividade, pois acho que são princípios básicos não só para o âmbito profissional, mas também para viver socialmente. </p>
+  <p>Me chamo Erik tenho 27 anos e sou Desenvolvedor Web Full Stack. <br/>
+Moro em Guarulhos/SP. <br/>
+Uma das minhas paixões é o código, e algumas outras são praticar exercícios na academia, também de animais, música e animações. <br/>
+Tenho procurado aprender e praticar mais para me tornar especialista nas tecnologias que aprendi durante minha jornada. </p>
 
 ###
 
 
-- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/)
+- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 9/12 Meses
 
 
 - 🌱 Estou estudando POO e S.O.L.I.D
