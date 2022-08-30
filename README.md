@@ -24,7 +24,7 @@ Tenho procurado aprender e praticar mais para me tornar especialista nas tecnolo
 - 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 9/12 Meses
 
 
-- 🌱 Estou estudando POO e S.O.L.I.D
+- 🌱 Estou estudando NoSql com MongoDB
 
 
 - ⚡ Fato curioso: Meu doce favorito é Bom Bom de banana
