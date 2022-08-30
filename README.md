@@ -21,7 +21,7 @@ Tenho procurado aprender e praticar mais para me tornar especialista nas tecnolo
 ###
 
 
-- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 9/12 Meses
+- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 10/12 Meses
 
 
 - 🌱 Estou estudando NoSql com MongoDB
