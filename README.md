@@ -22,12 +22,13 @@ Tenho procurado aprender e praticar mais para me tornar especialista nas tecnolo
 
 
 - 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 10/12 Meses
-
+- 🔭 I am currently a Web Software development studant ate [Trybe](https://www.betrybe.com/) 10/12 Months
 
 - 🌱 Estou estudando: ODM com Mongoose 
+- 🌱 I'm currently studying: ODM with Mongoose 
 
-
-- ⚡ Fato curioso: Meu doce favorito é Bom Bom de banana
+- ⚡ Fato curioso: Meu doce favorito é Bombom de banana
+- ⚡ Curious fact: My favorite candy is banana candy
 
 
 <br/>
