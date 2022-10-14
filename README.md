@@ -17,7 +17,7 @@ I've been looking to learn and practice more to become an expert in the technolo
 - 🔭 I am currently a Web Software development studant ate [Trybe](https://www.betrybe.com/) 10/12 Months
 <br/>
 
-- 🌱 I'm currently studying: ODM with Mongoose
+- 🌱 I'm currently studying: Computer science fundamentals with a python focus
 <br/>
 
 - ⚡ Curious fact: My favorite candy is banana candy
@@ -34,7 +34,7 @@ Tenho procurado aprender e praticar mais para me tornar especialista nas tecnolo
 
 - 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 10/12 Meses
 
-- 🌱 Estou estudando: ODM com Mongoose
+- 🌱 Estou estudando: Fundamentos de ciência da computação com foco em python
 
 - ⚡ Fato curioso: Meu doce favorito é Bombom de banana
 
