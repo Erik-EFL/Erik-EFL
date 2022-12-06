@@ -14,7 +14,7 @@ One of my passions is code, and some other things I like are exercising at the g
 I've been looking to learn and practice more to become an expert in the technologies I've learned during my journey.
 <br/><br/>
 
-- 🔭 I am currently a Web Software development studant ate [Trybe](https://www.betrybe.com/) 11/12 Months
+- 🔭 I am currently a Web Software development studant ate [Trybe](https://www.betrybe.com/) 12/12 Months
 <br/>
 
 - 🌱 I'm currently studying: Computer science fundamentals with a python focus
