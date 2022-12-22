@@ -14,10 +14,10 @@ One of my passions is code, and some other things I like are exercising at the g
 I've been looking to learn and practice more to become an expert in the technologies I've learned during my journey.
 <br/><br/>
 
-- 🔭 I am currently a Web Software development studant ate [Trybe](https://www.betrybe.com/) 12/12 Months
+- 🔭 I am currently developing a personal project that involves financial education
 <br/>
 
-- 🌱 I'm currently studying: Computer science fundamentals with a python focus
+- 🌱 I'm currently studying: Computer science fundamentals and Nest.js
 <br/>
 
 - ⚡ Curious fact: My favorite candy is banana candy
@@ -32,9 +32,9 @@ Moro em Guarulhos/SP. <br/>
 Uma das minhas paixões é o código, e algumas outras são praticar exercícios na academia, também de animais, música e animações. <br/>
 Tenho procurado aprender e praticar mais para me tornar especialista nas tecnologias que aprendi durante minha jornada. </p>
 
-- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/) 11/12 Meses
+- 🔭 Estou desenvolvendo atualmente um projeto pessoal que envolve educação financeira
 
-- 🌱 Estou estudando: Fundamentos de ciência da computação com foco em python
+- 🌱 Estou estudando: Fundamentos de ciência da computação e Nest.js
 
 - ⚡ Fato curioso: Meu doce favorito é Bombom de banana
 
