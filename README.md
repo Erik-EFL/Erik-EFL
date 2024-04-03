@@ -8,35 +8,34 @@
 </br>
 
 <section>
-My name is Erik, I'm 29 years old and I'm a Full Stack Web Developer. <br/>
+<p>My name is Erik, I'm 29 years old, and I'm a Full Stack Web Developer. <br/>
 I live in Guarulhos/SP. <br/>
-One of my passions is code, and some other things I like are exercising at the gym, also animals, music and animations.
-I've been looking to learn and practice more to become an expert in the technologies I've learned during my journey.
-<br/><br/>
+One of my passions is coding and continuously learning more whenever I can. <br/>
+Other passions of mine include working out at the gym, my cats, listening to music, and watching animations. <br/>
+I aim to practice more with personal projects to enhance my skills and become an expert in the technologies I've learned along my journey. </p>
 
-- 🔭 I am currently developing a personal project that involves financial education
-<br/>
+- 🔭 I'm currently working as a freelance front-end developer at [FTD Educação](https://ftd.com.br/)
 
-- 🌱 I'm currently studying: Computer science fundamentals and Nest.js
-<br/>
+- 🌱 I'm studying: Kotlin
 
-- ⚡ Curious fact: My favorite candy is banana candy
+- ⚡ Fun fact: I studied quantum mechanics (superficially) to write about a character in a story.
 <br/>
 <br/>
 
 <details>
 <br/>
 <summary>About me in portuguese</summary>
-<p>Me chamo Erik tenho 27 anos e sou Desenvolvedor Web Full Stack. <br/>
+<p>Me chamo Erik tenho 29 anos e sou Desenvolvedor Web Full Stack. <br/>
 Moro em Guarulhos/SP. <br/>
-Uma das minhas paixões é o código, e algumas outras são praticar exercícios na academia, também de animais, música e animações. <br/>
-Tenho procurado aprender e praticar mais para me tornar especialista nas tecnologias que aprendi durante minha jornada. </p>
+Uma das minhas paixões é fazer codigo e aprender mais sobre sempre que posso.
+Outras das minhas paixões são praticar ir a academia, meus gatos, escutar música e ver animações. <br/>
+Tenho praticar mais com projetos pessoais para me aperfeiçoar e poder me tornar especialista nas tecnologias que aprendi durante minha jornada. </p>
 
-- 🔭 Estou desenvolvendo atualmente um projeto pessoal que envolve educação financeira
+- 🔭 Estou atualmente trabalhando como desenvolvedor freelancer front-end na [FTD Educação](https://ftd.com.br/)
 
-- 🌱 Estou estudando: Fundamentos de ciência da computação e Nest.js
+- 🌱 Estou estudando: Kotlin
 
-- ⚡ Fato curioso: Meu doce favorito é Bombom de banana
+- ⚡ Fato curioso: Estudei mecanica quantica(superficialmente) para escrever sobre um personagem de uma história
 
 </details>
 
