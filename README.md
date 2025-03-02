@@ -8,7 +8,7 @@
 </br>
 
 <section>
-<p>My name is Erik, I'm 29 years old, and I'm a Full Stack Web Developer. <br/>
+<p>My name is Erik, I'm 29 years old, and I'm a Mid level Full Stack Developer. <br/>
 I live in Guarulhos/SP. <br/>
 One of my passions is coding and continuously learning more whenever I can. <br/>
 Other passions of mine include working out at the gym, my cats, listening to music, and watching animations. <br/>
