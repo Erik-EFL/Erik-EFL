@@ -8,15 +8,12 @@
 </br>
 
 <section>
-<p>My name is Erik, I'm 29 years old, and I'm a Mid level Full Stack Developer. <br/>
-I live in Guarulhos/SP. <br/>
-One of my passions is coding and continuously learning more whenever I can. <br/>
-Other passions of mine include working out at the gym, my cats, listening to music, and watching animations. <br/>
-I aim to practice more with personal projects to enhance my skills and become an expert in the technologies I've learned along my journey. </p>
+<p>Hey! I’m Erik, a Full Stack Web Developer living in Guarulhos, SP.<br/>
+Right now, I work as a freelance dev, always coding and thinking about how to level up my skills. <br/>
+I’m super passionate about programming — but also into working out, chilling with my cats, fish, and dog, <br/> vibing to music, watching anime and shows, and using my creativity to come up with cool ideas.<br/>
+I’m always learning and trying new things to grow, with one clear goal: become the best developer I can be, and help change people’s lives through technology. </p>
 
-- 🔭 I'm currently working as a freelance front-end developer at [FTD Educação](https://ftd.com.br/)
-
-- 🌱 I'm studying: Kotlin
+- 🔭 I'm currently working as a freelance front-end developer at [FTD Educação](https://ftd.com.br/
 
 - ⚡ Fun fact: I studied quantum mechanics (superficially) to write about a character in a story.
 <br/>
@@ -25,15 +22,13 @@ I aim to practice more with personal projects to enhance my skills and become an
 <details>
 <br/>
 <summary>About me in portuguese</summary>
-<p>Me chamo Erik tenho 29 anos e sou Desenvolvedor Web Full Stack. <br/>
+<p>Oi! Eu sou o Erik, Desenvolvedor Web Full Stack de Guarulhos, SP. <br/>
 Moro em Guarulhos/SP. <br/>
-Uma das minhas paixões é fazer codigo e aprender mais sobre sempre que posso.
-Outras das minhas paixões são praticar ir a academia, meus gatos, escutar música e ver animações. <br/>
-Tenho praticar mais com projetos pessoais para me aperfeiçoar e poder me tornar especialista nas tecnologias que aprendi durante minha jornada. </p>
+No momento, estou trabalhando como dev freelancer, sempre metido em algum projeto e tentando evoluir minhas skills. <br/>
+Amo programar — mas também curto academia, meus gatos, peixes e minha cachorra, ouvir música, ver anime e série, e usar a criatividade pra pensar em ideias maneiras. <br/>
+Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, com um objetivo bem claro: me tornar o melhor dev que eu puder e usar a tecnologia pra mudar a vida das pessoas. </p>
 
 - 🔭 Estou atualmente trabalhando como desenvolvedor freelancer front-end na [FTD Educação](https://ftd.com.br/)
-
-- 🌱 Estou estudando: Kotlin
 
 - ⚡ Fato curioso: Estudei mecanica quantica(superficialmente) para escrever sobre um personagem de uma história
 
