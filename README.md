@@ -1,4 +1,10 @@
+# 🌟 Welcome to my Digital Realm! 🌟
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;RPG+%26+D%26D+Enthusiast;Code+Wizard+%26+Tech+Samurai;Night+City+Survivor;Welcome+to+my+digital+realm!" alt="Typing SVG" />
+</div>
+
+---
 
 ##
 <div>
@@ -37,6 +43,31 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 ###
 
 <br/>
+
+## 🧙‍♂️ Character Sheet
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                  ⚔️  DEVELOPER STATS  ⚔️                 ║
+╠═══════════════════════════════════════════════════════════╣
+║ Class: Full Stack Developer                               ║
+║ Level: Senior                                             ║
+║ Alignment: Chaotic Good                                   ║
+║ Primary Stats:                                            ║
+║   • Coding: ████████████████████ 95/100                   ║
+║   • Problem Solving: ██████████████████ 90/100            ║
+║   • Creativity: ████████████████████ 98/100               ║
+║   • Coffee Consumption: ████████████████████ 100/100      ║
+║                                                           ║
+║ Special Abilities:                                        ║
+║   🔥 Code Refactoring (Legendary)                         ║
+║   ⚡ Bug Debugging (Master)                               ║
+║   🛡️ System Architecture (Expert)                         ║
+║   🎯 Feature Implementation (Advanced)                    ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
 
 ##
 
@@ -213,6 +244,28 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 
 <br/>
 
+## 🌟 Fellowship & Guild Activities
+
+<div align="center">
+
+### 🎮 **Current Gaming Campaigns**
+```
+🏆 League of Legends: Climbing the Rift (ADC Main)
+🌍 LOTR Marathon: Extended Editions Only
+🎵 Emo Core Playlist: Coding Soundtrack
+🤖 Cyberpunk 2077: Night City Explorer
+```
+
+### 🎯 **Active Hobbies & Side Quests**
+- 🎸 **Emo Core, Metal and Metal Core**: My coding fuel and emotional outlet
+- 🐉 **D&D Campaign Master**: Crafting epic adventures for my party
+- 🌋 **Middle-earth Explorer**: LOTR lore enthusiast
+- ⚔️ **League of Legends**: Strategic team battles
+- 🎮 **Cyberpunk 2077**: Living the Night City life
+- 🏋️ **Fitness & Well-being**: Balancing mind and body
+
+</div>
+
 ##
 <h1 align="center">Connect with me</h1>
 
@@ -239,4 +292,13 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 <br/>
 
 ##
+---
+
+<div align="center">
+
+### 💎 *"Not all those who wander are lost, but those who code are found in the matrix"* 💎
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=May%20your%20code%20be%20bug-free%20and%20your%20coffee%20strong!&fontSize=16&fontColor=fff"/>
+
+</div>
 
