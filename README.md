@@ -69,19 +69,9 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 
 ---
 
-##
+## 🔥 Current Power Level and 📊 Battle Statistics
 
-<div style="
-  display: flex; 
-  justify-content: space-between; 
-  align-items: center; 
-  flex-wrap: wrap; 
-  gap: 40px;
-  max-width: 900px;
-  width: 100%;
-  margin: 0 auto;
-  padding: 20px;
-">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight" 
     alt="Top Languages"
@@ -94,14 +84,9 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
   />
 </div>
 
-</br>
-</br>
-</br>
+---
 
-##
-<h1 align="center">My Skills</h1>
-
-##
+## ⚔️ Arsenal & Spellbook (Tech Stack)
 
 <table>
 <tr>
@@ -266,10 +251,9 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 
 </div>
 
-##
-<h1 align="center">Connect with me</h1>
+---
 
-##
+## 🌐 Connect & Join My Party
 
 <div align="center">
 <a href="https://github.com/https://github.com/Erik-EFL" target="_blank">
