@@ -19,7 +19,7 @@ Right now, I work as a freelance dev, always coding and thinking about how to le
 I’m super passionate about programming — but also into working out, chilling with my cats, fish, and dog, <br/> vibing to music, watching anime and shows, and using my creativity to come up with cool ideas.<br/>
 I’m always learning and trying new things to grow, with one clear goal: become the best developer I can be, and help change people’s lives through technology. </p>
 
-- 🔭 I'm currently working as a freelance "principal front-end engenier" at [FTD Educação](https://ftd.com.br/)
+- 🔭 I'm currently working as a freelance "front-end engenier" at [FTD Educação](https://ftd.com.br/)
 
 - ⚡ Fun fact: I studied quantum mechanics (superficially) to write about a character in a story.
 <br/>
