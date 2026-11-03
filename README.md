@@ -1,42 +1,38 @@
 # 🌟 Welcome to my Digital Realm! 🌟
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;RPG+%26+D%26D+Enthusiast;Code+Wizard+%26+Tech+Samurai;Night+City+Survivor;Welcome+to+my+digital+realm!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Front-End+Specialist+(React%2FNext.js);Design+Systems+%26+Architecture;AI+Agents+%26+Spec-Driven+Dev;Welcome+to+my+digital+realm!" alt="Typing SVG" />
 </div>
 
 ---
 
-##
 <div>
 <img id="imgEu" align="right" width="200px" src="https://i.ibb.co/wg3cB79/1637217851330-1-removebg-preview.png">
 
-</br>
-</br>
+<br/>
+<br/>
 
 <section>
-<p>Hey! I’m Erik, a Full Stack Web Developer living in Guarulhos, SP.<br/>
-Right now, I work as a freelance dev, always coding and thinking about how to level up my skills. <br/>
-I’m super passionate about programming — but also into working out, chilling with my cats, fish, and dog, <br/> vibing to music, watching anime and shows, and using my creativity to come up with cool ideas.<br/>
-I’m always learning and trying new things to grow, with one clear goal: become the best developer I can be, and help change people’s lives through technology. </p>
+<p>Hey! I’m Erik, a <b>Senior Software Engineer</b> and <b>Front-End Specialist</b> based in São Paulo, Brazil. <br/>
+I specialize in building high-performance web applications, architecting scalable Design Systems, engineering automated data pipelines, and integrating local & cloud AI workflows.<br/>
+Passionate about software engineering, clean architecture, and modern UX/UI — but also into weightlifting, chilling with my pets, playing music, watching anime, and running epic tabletop RPG campaigns.<br/>
+Always exploring new technologies and AI agents to solve complex problems and deliver impactful digital products.</p>
 
 - ⚡ Fun fact: I studied quantum mechanics (superficially) to write about a character in a story.
 <br/>
 <br/>
 
 <details>
+<summary><b>About me in Portuguese</b></summary>
 <br/>
-<summary>About me in portuguese</summary>
-<p>Oi! Eu sou o Erik, Desenvolvedor Web Full Stack de Guarulhos, SP. <br/>
-Moro em Guarulhos/SP. <br/>
-No momento, estou trabalhando como dev freelancer, sempre metido em algum projeto e tentando evoluir minhas skills. <br/>
-Amo programar — mas também curto academia, meus gatos, peixes e minha cachorra, ouvir música, ver anime e série, e usar a criatividade pra pensar em ideias maneiras. <br/>
-Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, com um objetivo bem claro: me tornar o melhor dev que eu puder e usar a tecnologia pra mudar a vida das pessoas. </p>
+<p>Oi! Eu sou o Erik, <b>Engenheiro de Software Sênior</b> e <b>Especialista Front-End</b> em São Paulo/SP. <br/>
+Especializado em desenvolvimento e arquitetura de aplicações web de alto desempenho, criação de Design Systems escaláveis, engenharia de pipelines de dados e integração de fluxos com IA.<br/>
+Apaixonado por engenharia de software, código limpo e UX/UI — mas também curto academia, meus pets, tocar música, ver animes e mestrar campanhas de RPG.<br/>
+Sempre aprendendo e explorando novas tecnologias e agentes de IA para resolver problemas complexos e impactar a vida das pessoas através da tecnologia.</p>
 
-- ⚡ Fato curioso: Estudei mecanica quantica(superficialmente) para escrever sobre um personagem de uma história
+- ⚡ Fato curioso: Estudei mecânica quântica (superficialmente) para escrever sobre um personagem em uma história.
 
 </details>
-
-###
 
 <br/>
 
@@ -44,37 +40,37 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                  ⚔️  DEVELOPER STATS  ⚔️                 ║
+║               ⚔️  DEVELOPER STATS  ⚔️                     ║
 ╠═══════════════════════════════════════════════════════════╣
-║ Class: Full Stack Developer                               ║
-║ Level: Senior                                             ║
+║ Class: Senior Software Engineer / Front-End Architect     ║
+║ Level: Senior (5+ YOE)                                    ║
 ║ Alignment: Chaotic Good                                   ║
 ║ Primary Stats:                                            ║
-║   • Coding: ████████████████████ 95/100                   ║
-║   • Problem Solving: ██████████████████ 90/100            ║
-║   • Creativity: ████████████████████ 98/100               ║
-║   • Coffee Consumption: ████████████████████ 100/100      ║
+║   • Code Architecture: ████████████████████ 96/100        ║
+║   • Problem Solving:   ████████████████████ 95/100        ║
+║   • Performance (Web): ██████████████████ 92/100          ║
+║   • Coffee Consumption:████████████████████ 100/100       ║
 ║                                                           ║
 ║ Special Abilities:                                        ║
-║   🔥 Code Refactoring (Legendary)                         ║
-║   ⚡ Bug Debugging (Master)                               ║
-║   🛡️ System Architecture (Expert)                         ║
-║   🎯 Feature Implementation (Advanced)                    ║
+║   🔥 Code Refactoring & Micro-Frontends (Legendary)       ║
+║   ⚡ Design Systems & UI Kits (Master)                     ║
+║   🛡️ System Architecture & Data Pipelines (Expert)       ║
+║   🎯 Web Performance & Spec-Driven Dev (Advanced)         ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔥 Current Power Level and 📊 Battle Statistics
+## 🔥 Current Power Level & 📊 Battle Statistics
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&&layout=compact&langs_count=7&theme=material-palenight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-EFL&layout=compact&langs_count=7&theme=material-palenight" 
     alt="Top Languages"
     style="height: auto;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=erik-efl&&theme=material-palenight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Erik-EFL&theme=material-palenight" 
     alt="GitHub Streak Stats"
     style="height: auto;"
   />
@@ -88,95 +84,46 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 <tr>
 <td valign="top" width="25%" align="center">
 
-### 💻 Linguagens
+### 💻 Languages
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/javascript--v1.png" alt="JavaScript" height="50" title="JavaScript"  />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/typescript.png" alt="TypeScript" height="50" title="TypeScript"  />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/python--v1.png" alt="Python" height="50" title="Python" />
+<img style="margin: 4px" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" title="Go (Golang)" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### 🎨 Frontend
+### 🎨 Front-End & State
 <div align="center">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" title="React"   />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" title="Next.js" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML5" height="50" title="HTML5" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/css3.png" alt="CSS3" height="50" title="CSS3"   />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/sass.png" alt="Sass" height="50" title="Sass"  />
-<img style="margin: 10px" src="https://styled-components.com/logo.png" alt="Styled Components" height="50" title="Styled Components" />
+<img style="margin: 4px" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" title="React" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" title="Next.js" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" title="Tailwind CSS" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" title="Styled Components" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Zustand_%2F_Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="State" title="Zustand / Redux / TanStack Query" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### 📚 Frameworks/Libs
+### ⚙️ Back-End & DB
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/redux.png" alt="Redux" height="50" title="Redux"  />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/tailwindcss.png" alt="Tailwind" height="50" title="Tailwind" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/material-ui.png" alt="Material-ui" height="50" title="Material-ui" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" height="50" title="Bootstrap"   />
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" height="50" title="Radix UI" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" title="Express" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### ⚙️ Backend
+### 🧪 Testing & Quality
 <div align="center">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" title="Node.js" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50" title="Express.js" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" title="NestJS" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" title="FastAPI" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/nginx.png" alt="Nginx" height="50" title="Nginx" />
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="25%" align="center">
-
-### 🗄️ Banco de Dados
-<div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="50" title="MongoDB" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/mysql-logo.png" alt="MySQL" height="50" title="MySQL" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" title="PostgreSQL" />
-</div>
-
-</td>
-<td valign="top" width="25%" align="center">
-
-### 🚀 DevOps
-<div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/docker.png" alt="Docker" height="50" title="Docker" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/git.png" alt="Git" height="50" title="Git" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/bash.png" alt="Bash" height="50" title="Bash" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" title="PowerShell" />
-</div>
-
-</td>
-<td valign="top" width="25%" align="center">
-
-### ☁️ Cloud/Deploy
-<div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/google-firebase-console.png" alt="Firebase" height="50" title="Firebase" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/heroku.png" alt="Heroku" height="50" title="Heroku" />
-<img style="margin: 10px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" height="50" title="Vercel" />
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/77715796?s=200&v=4" alt="Neon" height="50" title="Neon" />
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" height="50" title="Supabase" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" height="50" title="AWS" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/azure-1.png" alt="Azure" height="50" title="Azure" />
-</div>
-
-</td>
-<td valign="top" width="25%" align="center">
-
-### 📦 Package Managers
-<div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/npm.png" alt="NPM" height="50" title="NPM" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" height="50" title="Yarn" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" title="Jest" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" title="Vitest" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" title="Playwright" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" title="Cypress" />
 </div>
 
 </td>
@@ -185,38 +132,44 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 <tr>
 <td valign="top" width="25%" align="center">
 
-### 🛠️ Ferramentas
+### 🚀 DevOps & Cloud
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" alt="Visual-Studio-Code" height="50" title="Visual-Studio-Code" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/figma--v1.png" alt="Figma" height="50" title="Figma" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" title="Docker" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" title="Firebase" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### 💬 Comunicação
+### 🤖 AI & Agents
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/discord-logo.png" alt="Discord" height="50" title="Discord" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" height="50" title="Slack" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/zoom.png" alt="Zoom" height="50" title="Zoom" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" title="GitHub Copilot" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" title="OpenAI Codex" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Hermes_AI-6B21A8?style=flat-square&logo=cpu&logoColor=white" alt="Hermes" title="Hermes Agent" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" title="Spec-Driven AI Agents" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### 📋 Gestão
+### 📋 Workflows
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/color/452/trello.png" alt="Trello" height="50" title="Trello" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/azure-1.png" alt="Azure DevOps" height="50" title="Azure DevOps" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" title="Trello" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps" title="Azure DevOps" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" title="Slack" />
 </div>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-### 💻 Sistemas
+### 💻 Environment
 <div align="center">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" title="Linux" />
-<img style="margin: 10px" src="https://img.icons8.com/color/452/windows-10.png" alt="Windows" height="50" title="Windows" />
+<img style="margin: 4px" src="https://img.shields.io/badge/Linux_(WSL)-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" title="Linux / WSL" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VS Code" /><br/>
+<img style="margin: 4px" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" title="Figma" />
 </div>
 
 </td>
@@ -229,21 +182,19 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 
 <div align="center">
 
-### 🎮 **Current Gaming Campaigns**
+### 🎮 **Current Gaming & Guild Campaigns**
 ```
 🏆 League of Legends: Climbing the Rift (ADC Main)
-🌍 LOTR Marathon: Extended Editions Only
-🎵 Emo Core Playlist: Coding Soundtrack
+🌍 Middle-earth Explorer: LOTR Extended Lore
+🎵 Emo & Metal Core: Coding Soundtrack
 🤖 Cyberpunk 2077: Night City Explorer
 ```
 
 ### 🎯 **Active Hobbies & Side Quests**
-- 🎸 **Emo Core, Metal and Metal Core**: My coding fuel and emotional outlet
-- 🐉 **D&D Campaign Master**: Crafting epic adventures for my party
-- 🌋 **Middle-earth Explorer**: LOTR lore enthusiast
-- ⚔️ **League of Legends**: Strategic team battles
-- 🎮 **Cyberpunk 2077**: Living the Night City life
-- 🏋️ **Fitness & Well-being**: Balancing mind and body
+- 🎸 **Guitar & Music**: Emo Core, Metal & Instrumental Jamming
+- 🐉 **D&D Dungeon Master**: Crafting homebrew worlds and campaigns
+- 🏋️ **Fitness & Weightlifting**: Mind and body maintenance
+- 🐱 **Pet Parent**: Spending time with my cats, dog, and aquarium setup
 
 </div>
 
@@ -252,26 +203,25 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 ## 🌐 Connect & Join My Party
 
 <div align="center">
-<a href="https://github.com/https://github.com/Erik-EFL" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/Erik-EFL" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/erikferreiralima/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/erikferreiralima" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/oi.erik.lima/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/oi.erik.lima" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=erik-efl&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Erik-EFL&style=flat-square" align="center" />
 </div>
 
 <br/>
 
-##
 ---
 
 <div align="center">
@@ -281,4 +231,3 @@ Tô sempre aprendendo e explorando coisas novas pra crescer como desenvolvedor, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=May%20your%20code%20be%20bug-free%20and%20your%20coffee%20strong!&fontSize=16&fontColor=fff"/>
 
 </div>
-
